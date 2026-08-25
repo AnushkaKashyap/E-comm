@@ -1,0 +1,8 @@
+Pending 
+1. sns icon - is visible - at the side of page, vertically,  NEEDs to be visible horizontal - (issue in all pages) 
+2. inter link all links (home page to cart)
+3. CREATE PAGE - wishlist page - use chat gpt/cluade - link to all page
+4. link cart page to all
+5. update Page- after log in - CODE - for all page/ where applicable
+6. CREATE PAGE - Profile page
+7. bottom nav - for - logged in page + not logged in page
