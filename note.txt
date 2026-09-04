@@ -1,0 +1,11 @@
+🐞 Quick Fixes
+SNS icons — fix orientation (vertical → horizontal), site-wide (all pages)
+-🔗 Linking (foundational — do before new pages)
+-Interlink all existing pages (home → cart, etc.)
+-Link cart page to all pages
+🆕 New Pages
+-Create Wishlist page (via ChatGPT/Claude) → link from all pages
+-Create Profile page
+⚙️ System-Wide States
+Post-login UI update — apply code across all applicable pages
+-Bottom nav — build both logged-in and logged-out variants
